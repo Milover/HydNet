@@ -1,0 +1,17 @@
+// Test case 1 - node file
+
+Reservoir
+{
+	{
+	id:			1;
+	discharge:	0.1;
+	pressure:	1e5;
+	level:		1;
+	}
+	
+	{
+	id:			2;
+	loss:		1;
+	pressure:	1e5;
+	}
+}

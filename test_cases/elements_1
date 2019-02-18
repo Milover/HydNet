@@ -1,0 +1,17 @@
+// Test case 1 - element file
+
+nodeQty: 2;
+elementQty: 1;
+
+{
+	{
+	id:			1;
+	start:		1;
+	end:		2;
+	diameter:	0.0221;
+	length:		37.23;
+	thickness:	0.00163;
+	roughness:	1.5e-6;
+	material:	copper;
+	}
+}

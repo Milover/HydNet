@@ -1,0 +1,30 @@
+// Test case 3 - node file
+
+Reservoir
+{
+	{
+	id:			1;
+	discharge:	0.1;
+	pressure:	1e5;
+	level:		22;
+	}
+
+	{
+	id:			3;
+	loss:		1;
+	pressure:	1e5;
+	elevation:	2.03;
+	level:		19.43;
+	}
+}
+
+Valve
+{
+	{
+	id:			2;
+	loss:		0.05;
+	elevation:	2.03;
+	eventStart:	40;
+	eventEnd:	40.1;
+	}
+}

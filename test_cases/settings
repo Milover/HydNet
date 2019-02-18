@@ -1,0 +1,7 @@
+// Test case - general
+
+{
+	fluid:				water;
+	discretization:		8;
+	symTime:			2;
+}
